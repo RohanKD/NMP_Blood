@@ -1,0 +1,302 @@
+Results for ['eve1', 'tbxta']:
+hes6 - 0.439
+                 mdka - -0.171
+
+cdx4 - 0.393
+                 akap12b - -0.151
+
+cyp26a1 - 0.351
+              meis1b - -0.148
+
+tbxta - 0.303
+                marcksl1b - -0.145
+
+fgf8a - 0.289
+                midn - -0.134
+
+hoxd12a - 0.284
+              tmsb4x - -0.134
+
+ved - 0.283
+                  hsp90aa1.1 - -0.134
+
+itm2cb - 0.28
+                si:ch211-286o17.1 - -0.132
+
+eve1 - 0.273
+                 sparc - -0.127
+
+vox - 0.27
+                   bcam - -0.124
+
+ptk7a - 0.259
+                ahnak - -0.119
+
+cdx1a - 0.248
+                fstl1a - -0.112
+
+cx43.4 - 0.245
+               nr2f5 - -0.11
+
+tbx16 - 0.231
+                fabp3 - -0.105
+
+hoxa11b - 0.211
+              ttn.1 - -0.105
+
+sp5l - 0.205
+                 lsp1a - -0.104
+
+sall4 - 0.202
+                meox1 - -0.102
+
+tob1a - 0.197
+                sox3 - -0.102
+
+kif26ab - 0.196
+              dag1 - -0.102
+
+adam8a - 0.194
+               fzd7a - -0.101
+
+her7 - 0.189
+                 ttn.2 - -0.099
+
+stmn1a - 0.183
+               meis1a - -0.098
+
+spry4 - 0.182
+                nova2 - -0.098
+
+hoxa11a - 0.181
+              greb1l - -0.096
+
+wnt5b - 0.179
+                actb2 - -0.095
+
+hoxa9a - 0.176
+               unc45b - -0.094
+
+fgf3 - 0.172
+                 acta1a - -0.094
+
+hoxa10b - 0.17
+               efemp2a - -0.092
+
+hoxb7a - 0.166
+               alcama - -0.092
+
+snai1a - 0.166
+               si:dkey-195m11.8 - -0.09
+
+hoxa13b - 0.166
+              actc1b - -0.087
+
+rarga - 0.165
+                tpm4a - -0.087
+
+hoxa9b - 0.159
+               emp2 - -0.087
+
+mgat1b - 0.155
+               fsta - -0.085
+
+rrm2-1 - 0.155
+               myod1 - -0.085
+
+hoxb10a - 0.155
+              mbd3b - -0.082
+
+znfl2a - 0.154
+               gnb1a - -0.079
+
+BX001014.2 - 0.15
+            krt8 - -0.079
+
+prickle1b - 0.149
+            zfhx4 - -0.079
+
+hoxc11b - 0.149
+              sdc4 - -0.079
+
+prdx1 - 0.147
+                lasp1 - -0.077
+
+msx1b - 0.144
+                her6 - -0.076
+
+sash1a - 0.143
+               phlda2 - -0.076
+
+wls - 0.142
+                  wnt11 - -0.076
+
+arl4d - 0.14
+                 fthl27 - -0.073
+
+ppp1r14c - 0.139
+             tet3 - -0.073
+
+chaf1a - 0.138
+               zbtb16b - -0.073
+
+rdh8a - 0.136
+                alcamb - -0.073
+
+si:dkey-261h17.1 - 0.136
+     efemp2b - -0.072
+
+hist1h4l-16 - 0.136
+          pleca - -0.072
+
+id3 - 0.135
+                  cfl1l - -0.072
+
+hoxb9a - 0.135
+               hint1 - -0.071
+
+ube2e2 - 0.132
+               fstl1b - -0.071
+
+nid2a - 0.131
+                pfn2l - -0.07
+
+tll1 - 0.131
+                 rbm24a - -0.07
+
+hspb1 - 0.131
+                fxyd6l - -0.07
+
+il17rd - 0.131
+               col4a6 - -0.068
+
+msx2b - 0.131
+                rasgef1ba - -0.068
+
+si:dkey-108k21.10 - 0.13
+     cdkn1ca - -0.067
+
+rbm38 - 0.128
+                ntn1a - -0.067
+
+tagln3b - 0.125
+              cldni - -0.067
+
+msgn1 - 0.124
+                col5a1 - -0.066
+
+ccnd1 - 0.123
+                id1 - -0.066
+
+ephb4b - 0.123
+               CABZ01075068.1 - -0.065
+
+aebp1 - 0.122
+                tnni2b.1 - -0.065
+
+nasp - 0.122
+                 zgc:92429 - -0.065
+
+dhrs3b - 0.12
+                pmp22a - -0.064
+
+hoxd9a - 0.12
+                efnb2a - -0.064
+
+hoxc11a - 0.12
+               col4a5 - -0.064
+
+fn1b - 0.12
+                  epcam - -0.064
+
+greb1 - 0.119
+                zbtb18 - -0.064
+
+si:dkey-261m9.12 - 0.118
+     pfn1 - -0.063
+
+gdf11 - 0.118
+                lin28a - -0.063
+
+lig1 - 0.118
+                 atp5mc3a - -0.062
+
+sox2 - 0.117
+                 fxr2 - -0.062
+
+hoxd11a - 0.115
+              pbx4 - -0.061
+
+pcna - 0.114
+                 trim71 - -0.061
+
+hoxc10a - 0.114
+              rwdd1 - -0.061
+
+notch1a - 0.111
+              actc1a-1 - -0.061
+
+si:dkey-40c11.2 - 0.111
+      sox19a - -0.06
+
+bambia - 0.11
+                tpm3 - -0.06
+
+hoxd10a - 0.11
+               sept12 - -0.06
+
+apoc1 - 0.11
+                 ssr4 - -0.06
+
+her2 - 0.109
+                 nat8l - -0.06
+
+si:ch211-113a14.24 - 0.109
+   marcksl1a - -0.059
+
+phgdh - 0.108
+                rgmd - -0.059
+
+cmtm6 - 0.106
+                gng5 - -0.058
+
+pclaf - 0.106
+                pprc1 - -0.058
+
+hoxc3a - 0.106
+               myl13 - -0.057
+
+mllt3 - 0.105
+                bcar1 - -0.057
+
+vent - 0.105
+                 dla - -0.057
+
+selenon - 0.104
+              klhl41b - -0.057
+
+hoxc8a - 0.104
+               ier5l - -0.057
+
+lbr - 0.104
+                  eya1 - -0.057
+
+lef1 - 0.103
+                 pbxip1b - -0.057
+
+sulf1 - 0.102
+                sfrp5 - -0.057
+
+hmgb1a - 0.102
+               mef2d - -0.056
+
+depdc7a - 0.101
+              tagln2 - -0.056
+
+enc3 - 0.101
+                 pcdh10b - -0.056
+
+hoxd3a - 0.1
+                 tenm3 - -0.056
+
+
